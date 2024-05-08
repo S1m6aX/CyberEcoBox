@@ -40,3 +40,4 @@ This project is an Arduino-based smart plant light control system. It uses a DHT
 ## Contributions
 
 Contributions such as suggestions for improvement, issue reporting, or code contributions are welcome. You can contribute by submitting an issue or pull request.
+![4241715150167_ pic](https://github.com/S1m6aX/CyberEcoBox/assets/125509593/4b7b82ed-35e6-42a9-90ac-28d1dcc509e7)
